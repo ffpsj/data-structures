@@ -1,6 +1,6 @@
 # Data Structures ![Github Stars](https://img.shields.io/github/stars/ffpsj/data-structures.svg?label=Stars) ![Github Forks](https://img.shields.io/github/forks/ffpsj/data-structures.svg?label=Forks) ![Github Watchers](https://img.shields.io/github/watchers/ffpsj/data-structures.svg?label=Watchers) ![Github Followers](https://img.shields.io/github/followers/ffpsj.svg?label=Followers) ![Github Contributors](https://img.shields.io/github/contributors/ffpsj/data-structures.svg?label=Contributors) ![Github Repository Size](https://img.shields.io/github/repo-size/ffpsj/data-structures.svg?label=Size)
 
-![Header](https://i.imgur.com/JACycHz.png)
+![Header](https://i.imgur.com/rd4GxpM.png)
 
 Learning Data Structures
 
@@ -18,4 +18,4 @@ Learning Data Structures
 
 ## Contact Me
 + E-mail: ffpsjr@gmail.com
-+ Telefone: (82) 9 9121-3725
++ Phone: +5582991213725
